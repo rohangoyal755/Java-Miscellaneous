@@ -6,3 +6,4 @@ class Emp_App{
 		
 	}
 }
+//this is how you create an object
